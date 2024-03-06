@@ -2,6 +2,8 @@
 
 This is another of my old project, which aims to revive Minecraft Bedrock removed Items by crafting it. It was meant for creators to use it and build amazing things without using commands to fill things
 
+[Download the latest Add-on here!](https://github.com/studiobuttermedia/Minecraft_Bedrock_Hidden_Items/releases/latest)
+
 Removed Items that is now craftable:
 
 - Glowing Obsidian (4 Netherrack, 1 in each corner, 4 glowstone dust, 1 in each sides and an Obsidian in the middle)
