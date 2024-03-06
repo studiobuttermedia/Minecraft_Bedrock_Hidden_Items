@@ -1,0 +1,23 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "Gives Removed Items Obtainable again and craftable",
+		"name": "Minecraft Hidden Items - Craftable",
+		"uuid": "1093fc4f-f4a7-437b-9d3d-98bcfc848347",
+		"version": [2, 0, 0],
+		"min_engine_version": [1, 14, 0]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "d1dde05d-75ea-40b5-b636-be0996cfd3ff",
+			"version": [2, 0, 0]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "f1e80b90-67af-410b-bda6-bf22d3c52db9",
+			"version": [2, 0, 0]
+		}
+	]
+}

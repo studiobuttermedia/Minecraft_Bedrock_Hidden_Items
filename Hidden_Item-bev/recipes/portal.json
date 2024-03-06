@@ -1,0 +1,33 @@
+{
+	"format_version": "1.14.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "minecraft:portal"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"X#X",
+			"#0#",
+			"X#X"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:obsidian"
+			},
+			"X": {
+				"item": "minecraft:stone"
+			},
+			"0": {
+				"item": "minecraft:fireball"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:portal",
+				"count": 1
+			}
+		]
+	}
+}

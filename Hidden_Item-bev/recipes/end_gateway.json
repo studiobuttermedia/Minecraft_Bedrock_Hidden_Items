@@ -1,0 +1,30 @@
+{
+	"format_version": "1.14.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "minecraft:end_gateway"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"###",
+			"#0#",
+			"###"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:end_portal"
+			},
+			"0": {
+				"item": "minecraft:beacon"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:end_gateway",
+				"count": 1
+			}
+		]
+	}
+}
